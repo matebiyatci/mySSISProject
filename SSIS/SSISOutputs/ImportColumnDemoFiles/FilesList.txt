@@ -1,0 +1,4 @@
+C:\Users\hatic\OneDrive\Desktop\SSIS\SSISOutputs\ImportColumnDemoFiles\ChrisGayle.jpg
+C:\Users\hatic\OneDrive\Desktop\SSIS\SSISOutputs\ImportColumnDemoFiles\McGregor.jpg
+C:\Users\hatic\OneDrive\Desktop\SSIS\SSISOutputs\ImportColumnDemoFiles\NateDiaz.jpg
+C:\Users\hatic\OneDrive\Desktop\SSIS\SSISOutputs\ImportColumnDemoFiles\NickDiaz.jpg
